@@ -29,7 +29,8 @@
 
 ## clone - fetch - pull
 
-print("test01")
+print("test01")  #  v 0.5
 
+print("test02")   # v0.6
 # 버전컨트롤 vcs  share project on - git - project name
 ##
